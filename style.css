@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .fixed{
+    position: fixed;
+} */
+.AAA{
+    margin-top: 0px;
+    /* align-items: center; */
+    margin-left: 550px;
+    /* position: fixed; */
+
+}
+.one{
+    margin-top: 10px;
+}
+.two{
+    margin-top: -570px;
+    position: sticky;
+    top:0;
+    padding: 10px;
+    background-color: wheat;
+    border: 2px solid wheat;
+  
+}
+.two :hover{
+    color: brown;
+    
+}
+a{
+    color: darkcyan;
+}
+.two ul{
+    display: flex;
+    list-style: none;
+    margin-left: 300px;
+    
+}
+.two ul li{
+    margin-left: 30px;
+    font-size: 30px;
+   
+    
+    /* float: right; */
+}
+.three{
+    font-size: 50px;
+    margin-left: 200px;
+    margin-top: 90px;
+    color: rgb(24, 21, 24);
+    /* background-image: url(/GK1/GK3/image3); */
+}
+.three span{
+    color: darksalmon;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.four{
+    margin-top: 280px;
+    float: left;
+    margin-left: 20px;
+}
+.five{
+    margin-left: 600px;
+    margin-top: 300px;
+    font-size: 20px;
+    /* padding-left: 10px; */
+}
+.six{
+    margin-top: 40px;
+    font-size: 20px;
+    margin-right: 600px;
+    margin-left: 10px;
+    float: right;
+}
+.seven{
+    /* margin-left: 750px; */
+    margin-top: -300px;
+    margin-bottom: 50px;
+    float:right;
+    margin-right: 20px;
+}
+.eight{
+    background-color: lightslategray;
+    margin-top: 400px;
+}
+.icons ul{
+    float: right;
+    margin-top: -180px;
+    margin-right: 600px;
+ }
+ .icons ul li{
+    margin: 10px;
+ }
+ .icons .address address{
+    float: right;
+    margin-top: -180px;
+    margin-right: 300px;
+ }
